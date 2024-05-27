@@ -24,7 +24,7 @@ public class HtmlValidator {
 			}
 		}
 
-.......
+
 		return pilaHTML;
 
 	}
